@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="update_latest">bạn đang sử dụng phiên bản mới nhất</string>
+    <string name="update_title">cập nhật phiên bản</string>
+    <string name="update_message">phần mềm cần được cập nhật phiên bản</string>
+    <string name="update_update_btn">cập nhật</string>
+    <string name="updating">đang cập nhật</string>
+    <string name="update_cancel">hủy</string>
+    <string name="update_bg">cập nhật dưới nền</string>
+    <string name="download_complete">tải về hoàn tất</string>
+    <string name="download_complete_title">tải về hoàn tất</string>
+    <string name="download_complete_pos_btn">tải lại</string>
+    <string name="download_complete_neu_btn">cài đặt thủ công</string>
+
+    <string name="update_error_title">lỗi</string>
+    <string name="update_error_message">đường truyền không ổn định, vui lòng kiểm tra lại.</string>
+    <string name="update_error_yes_btn">OK</string>
+</resources>
